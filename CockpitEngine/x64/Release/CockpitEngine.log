@@ -1,0 +1,2 @@
+﻿  Generate moc_predefs.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(209,5): error MSB6006: Arrêt de "cmd.exe" avec le code 9009.

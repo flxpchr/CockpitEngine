@@ -1,0 +1,23 @@
+%YAML:1.0
+calibration_Time: "08/19/11 20:44:38"
+nrOfFrames: 38
+image_Width: 720
+image_Height: 576
+board_Width: 9
+board_Height: 6
+square_Size: 5.
+FixAspectRatio: 1.
+# flags:  +fix_aspectRatio +fix_principal_point +zero_tangent_dist
+flagValue: 14
+Camera_Matrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 8.8732065652796189e+02, 0., 3.7871162676970908e+02,
+            0., 9.7156607203854935e+02, 2.9858352356205995e+02, 
+            0., 0., 1.]
+Distortion_Coefficients: !!opencv-matrix
+   rows: 5
+   cols: 1
+   dt: d
+   data: [ -5.5074953002614946e-01, 5.8274033313910722e-01,    3.6881738869796259e-03, 1.8585666715000865e-03,    -1.1225186632320043e+00]
